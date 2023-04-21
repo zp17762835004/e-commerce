@@ -1,5 +1,7 @@
 package com.all.ecommerce.service.impl;
 
+import com.all.ecommerce.common.annotation.PermissionAnnotation;
+import com.all.ecommerce.common.annotation.TransActionAnnotation;
 import com.all.ecommerce.common.exception.AccountException;
 import com.all.ecommerce.common.factory.BillFactory;
 import com.all.ecommerce.entity.Account;
@@ -40,7 +42,9 @@ private BillMapper billMapper;
     }
 
     @Override
-    @Transactional(rollbackFor = Exception.class)
+//    @Transactional(rollbackFor = Exception.class)
+    @PermissionAnnotation
+    @TransActionAnnotation
     public Boolean consume(String aacountName, BigDecimal monetary) {
         //默认支付环节在操作数据库部分更易出现异常
         Account account = accountMapper.selectOne(Wrappers.<Account>lambdaQuery()
@@ -61,8 +65,8 @@ private BillMapper billMapper;
         billMapper.insert(BillFactory.createBill(aacountName,PAY,monetary));
         //调用相应的支付api
 
-
-
+        System.out.println("完成，消费结果为");
+        System.out.println(i);
         return i>0?true:false;
     }
 

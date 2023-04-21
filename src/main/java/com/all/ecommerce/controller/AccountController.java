@@ -1,5 +1,6 @@
 package com.all.ecommerce.controller;
 
+import com.all.ecommerce.common.annotation.PermissionAnnotation;
 import com.all.ecommerce.dto.AccountBalanceDto;
 import com.all.ecommerce.entity.Bill;
 import com.all.ecommerce.service.AccountService;
@@ -48,6 +49,7 @@ public class AccountController {
      */
     @PostMapping("/consume")
 
+
     public String consume(String accountName,BigDecimal monetary){
 
         //题目要求消费100元
@@ -55,6 +57,7 @@ public class AccountController {
 
 
         Boolean result = accountService.consume(accountName,monetary);
+        System.out.println(result);
         if (result) {
             return JsonUtil.getJson(Result.succeed(null,"消费成功"));
         }else{
