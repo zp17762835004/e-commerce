@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mxfile host="app.diagrams.net" modified="2023-05-16T01:28:07.914Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36 NetType/WIFI MicroMessenger/6.8.0(0x16080000) MacWechat/3.7.1(0x13070110) XWEB/30419 Flue" etag="S31XrLJNRDQk1ksuSNnZ" version="21.3.2">
+  <diagram name="第 1 页" id="kZsR6Xk8gTe69wgRAa6V">
+    <mxGraphModel dx="434" dy="577" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="iffB6uSFVy8C3MFSZTTh-27" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="iffB6uSFVy8C3MFSZTTh-1" target="iffB6uSFVy8C3MFSZTTh-4" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="iffB6uSFVy8C3MFSZTTh-1" value="开始" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#60a917;strokeColor=#2D7600;fontColor=#ffffff;" parent="1" vertex="1">
+          <mxGeometry x="160" y="10" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="iffB6uSFVy8C3MFSZTTh-2" value="获取所有已发布的业务主题并遍历其业务属性" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#0050ef;fontColor=#ffffff;strokeColor=#001DBC;" parent="1" vertex="1">
+          <mxGeometry x="140" y="110" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ceDrHB01kTsIlGRxlbIe-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="iffB6uSFVy8C3MFSZTTh-4" target="iffB6uSFVy8C3MFSZTTh-8" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ceDrHB01kTsIlGRxlbIe-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="iffB6uSFVy8C3MFSZTTh-4" target="iffB6uSFVy8C3MFSZTTh-2" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="330" y="50" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="331" y="230" />
+              <mxPoint x="331" y="140" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="iffB6uSFVy8C3MFSZTTh-4" value="根据业务属性id判断是否已&lt;br&gt;经记录血缘关系" style="rhombus;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;rounded=1;" parent="1" vertex="1">
+          <mxGeometry x="95" y="190" width="210" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="iffB6uSFVy8C3MFSZTTh-22" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="iffB6uSFVy8C3MFSZTTh-9" target="iffB6uSFVy8C3MFSZTTh-10" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="iffB6uSFVy8C3MFSZTTh-25" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="iffB6uSFVy8C3MFSZTTh-10" target="iffB6uSFVy8C3MFSZTTh-11" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="iffB6uSFVy8C3MFSZTTh-10" value="对表进行关系映射，获取模版信息" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#0050ef;fontColor=#ffffff;strokeColor=#001DBC;" parent="1" vertex="1">
+          <mxGeometry x="140" y="400" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ceDrHB01kTsIlGRxlbIe-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="iffB6uSFVy8C3MFSZTTh-11" target="ceDrHB01kTsIlGRxlbIe-1" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="iffB6uSFVy8C3MFSZTTh-11" value="对模版进行映射分析，获取数据源信息" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#0050ef;fontColor=#ffffff;strokeColor=#001DBC;" parent="1" vertex="1">
+          <mxGeometry x="140" y="460" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="iffB6uSFVy8C3MFSZTTh-24" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="iffB6uSFVy8C3MFSZTTh-8" target="iffB6uSFVy8C3MFSZTTh-9" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="190" y="460" as="sourcePoint" />
+            <mxPoint x="180" y="590" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="iffB6uSFVy8C3MFSZTTh-9" value="对字段映射关系分析，获取表信息" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#0050ef;fontColor=#ffffff;strokeColor=#001DBC;" parent="1" vertex="1">
+          <mxGeometry x="140" y="350" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ceDrHB01kTsIlGRxlbIe-1" value="结束" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#60a917;fontColor=#ffffff;strokeColor=#2D7600;" parent="1" vertex="1">
+          <mxGeometry x="160" y="520" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="iffB6uSFVy8C3MFSZTTh-8" value="对业务属性查询映射关系，获取字段的分析结果" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#0050ef;fontColor=#ffffff;strokeColor=#001DBC;" parent="1" vertex="1">
+          <mxGeometry x="140" y="290" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ceDrHB01kTsIlGRxlbIe-14" value="不存在" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="150" y="260" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ceDrHB01kTsIlGRxlbIe-16" value="存在" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="280" y="170" width="60" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
