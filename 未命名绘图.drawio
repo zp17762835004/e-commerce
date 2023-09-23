@@ -1,9 +1,36 @@
-<mxfile host="app.diagrams.net" modified="2023-09-23T05:03:52.861Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" version="21.8.1" etag="4uiNALMoXne_yUpBjzEj" type="github">
+<mxfile host="app.diagrams.net" modified="2023-09-23T06:13:51.122Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="awKEp3Kc2AviM46xoeki" version="21.8.1" type="github">
   <diagram name="第 1 页" id="2nmkqMmpdVOXknUFFFJr">
-    <mxGraphModel>
+    <mxGraphModel dx="954" dy="495" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="ub2z6pUdlAEDYnLQV5LL-1" value="开始" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="350" y="20" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="ub2z6pUdlAEDYnLQV5LL-2" value="结束" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="350" y="990" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="ub2z6pUdlAEDYnLQV5LL-3" value="获取当前时间的评估月份所有的理赔融合表数据" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="360" y="130" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="ub2z6pUdlAEDYnLQV5LL-4" value="计算已发生未报告赔款准备金" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="360" y="250" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="ub2z6pUdlAEDYnLQV5LL-8" value="再保后ibnr分摊金额求和" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.document2;whiteSpace=wrap;size=0.25;" vertex="1" parent="1">
+          <mxGeometry x="200" y="280" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ub2z6pUdlAEDYnLQV5LL-9" value="计算已发生未报告边际" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="360" y="370" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="ub2z6pUdlAEDYnLQV5LL-10" value="再保后风险边际求和" style="shape=tape;whiteSpace=wrap;html=1;strokeWidth=2;size=0.19" vertex="1" parent="1">
+          <mxGeometry x="200" y="390" width="100" height="65" as="geometry" />
+        </mxCell>
+        <mxCell id="ub2z6pUdlAEDYnLQV5LL-11" value="计算未决赔款准备金评估险类维度分析" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="360" y="500" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="ub2z6pUdlAEDYnLQV5LL-12" value="根据险类分组求和“再保后会计未决”" style="shape=tape;whiteSpace=wrap;html=1;strokeWidth=2;size=0.19" vertex="1" parent="1">
+          <mxGeometry x="200" y="520" width="100" height="65" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
