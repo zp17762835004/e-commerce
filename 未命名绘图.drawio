@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-09-23T09:17:19.399Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="6ZlLvFW_-kVzy2fnPSP7" version="21.8.1" type="github">
+<mxfile host="app.diagrams.net" modified="2023-09-23T09:57:23.961Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="jdpFXOnE-qlFBGf7nuzO" version="21.8.1" type="github">
   <diagram name="第 1 页" id="2nmkqMmpdVOXknUFFFJr">
     <mxGraphModel dx="954" dy="495" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -26,7 +26,7 @@
           <mxGeometry x="220" y="310" width="100" height="100" as="geometry" />
         </mxCell>
         <mxCell id="ub2z6pUdlAEDYnLQV5LL-8" value="再保后ibnr分摊金额求和" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.document2;whiteSpace=wrap;size=0.25;" vertex="1" parent="1">
-          <mxGeometry x="50" y="330" width="100" height="60" as="geometry" />
+          <mxGeometry x="60" y="330" width="100" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ub2z6pUdlAEDYnLQV5LL-25" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ub2z6pUdlAEDYnLQV5LL-9" target="ub2z6pUdlAEDYnLQV5LL-10">
           <mxGeometry relative="1" as="geometry" />
@@ -110,7 +110,7 @@
           <mxGeometry x="500" y="920" width="100" height="100" as="geometry" />
         </mxCell>
         <mxCell id="ub2z6pUdlAEDYnLQV5LL-39" value="再保前风险边际求和" style="shape=tape;whiteSpace=wrap;html=1;strokeWidth=2;size=0.19" vertex="1" parent="1">
-          <mxGeometry x="670" y="937.5" width="100" height="65" as="geometry" />
+          <mxGeometry x="660" y="937.5" width="100" height="65" as="geometry" />
         </mxCell>
         <mxCell id="ub2z6pUdlAEDYnLQV5LL-46" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ub2z6pUdlAEDYnLQV5LL-43" target="ub2z6pUdlAEDYnLQV5LL-45">
           <mxGeometry relative="1" as="geometry" />
@@ -122,7 +122,7 @@
           <mxGeometry x="500" y="1069" width="100" height="100" as="geometry" />
         </mxCell>
         <mxCell id="ub2z6pUdlAEDYnLQV5LL-45" value="再保前法定未决赔款" style="shape=tape;whiteSpace=wrap;html=1;strokeWidth=2;size=0.19" vertex="1" parent="1">
-          <mxGeometry x="680" y="1086.5" width="100" height="65" as="geometry" />
+          <mxGeometry x="660" y="1086.5" width="100" height="65" as="geometry" />
         </mxCell>
         <mxCell id="ub2z6pUdlAEDYnLQV5LL-50" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ub2z6pUdlAEDYnLQV5LL-47" target="ub2z6pUdlAEDYnLQV5LL-48">
           <mxGeometry relative="1" as="geometry" />
@@ -134,7 +134,7 @@
           <mxGeometry x="500" y="1220" width="100" height="100" as="geometry" />
         </mxCell>
         <mxCell id="ub2z6pUdlAEDYnLQV5LL-48" value="再保后风险边际求和" style="shape=tape;whiteSpace=wrap;html=1;strokeWidth=2;size=0.19" vertex="1" parent="1">
-          <mxGeometry x="680" y="1237.5" width="100" height="65" as="geometry" />
+          <mxGeometry x="660" y="1237.5" width="100" height="65" as="geometry" />
         </mxCell>
         <mxCell id="ub2z6pUdlAEDYnLQV5LL-54" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ub2z6pUdlAEDYnLQV5LL-51" target="ub2z6pUdlAEDYnLQV5LL-53">
           <mxGeometry relative="1" as="geometry" />
@@ -143,7 +143,7 @@
           <mxGeometry x="500" y="1380" width="100" height="100" as="geometry" />
         </mxCell>
         <mxCell id="ub2z6pUdlAEDYnLQV5LL-53" value="再保后法定未决赔款求和" style="shape=tape;whiteSpace=wrap;html=1;strokeWidth=2;size=0.19" vertex="1" parent="1">
-          <mxGeometry x="680" y="1397.5" width="100" height="65" as="geometry" />
+          <mxGeometry x="660" y="1397.5" width="100" height="65" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
