@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-09-26T11:21:22.863Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="m0GNqz0BVTcoV8BaMjE1" version="21.8.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-09-26T11:34:11.033Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="LnfDJX0PykKktX8rh9-L" version="21.8.2" type="github">
   <diagram name="第 1 页" id="hd4iWSOs5ydH5sYwvfdb">
     <mxGraphModel dx="954" dy="495" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -186,21 +186,197 @@
           <mxGeometry x="312" y="190" width="156" height="30" as="geometry" />
         </mxCell>
         <mxCell id="tJB3gldnxjRfWqx4vpF3-77" value="去年，前年末未决赔款准备金回溯日评估值计算逻辑" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="950" y="190" width="156" height="30" as="geometry" />
+          <mxGeometry x="1130" y="190" width="156" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="tJB3gldnxjRfWqx4vpF3-81" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="tJB3gldnxjRfWqx4vpF3-78" target="tJB3gldnxjRfWqx4vpF3-79">
+        <mxCell id="tJB3gldnxjRfWqx4vpF3-83" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="tJB3gldnxjRfWqx4vpF3-85" target="tJB3gldnxjRfWqx4vpF3-89">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="tJB3gldnxjRfWqx4vpF3-82" value="数据准备" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="tJB3gldnxjRfWqx4vpF3-81">
-          <mxGeometry x="-0.08" y="-2" relative="1" as="geometry">
+        <mxCell id="tJB3gldnxjRfWqx4vpF3-84" value="数据准备" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="tJB3gldnxjRfWqx4vpF3-83">
+          <mxGeometry x="-0.1667" y="4" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="tJB3gldnxjRfWqx4vpF3-78" value="开始" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="988" y="250" width="80" height="80" as="geometry" />
+        <mxCell id="tJB3gldnxjRfWqx4vpF3-85" value="开始" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="1170" y="250" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="tJB3gldnxjRfWqx4vpF3-79" value="获取当前时间now，去年或前年当前时间lastyear" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="978" y="380" width="100" height="100" as="geometry" />
+        <mxCell id="tJB3gldnxjRfWqx4vpF3-86" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="tJB3gldnxjRfWqx4vpF3-89" target="tJB3gldnxjRfWqx4vpF3-93">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="tJB3gldnxjRfWqx4vpF3-87" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="tJB3gldnxjRfWqx4vpF3-89" target="tJB3gldnxjRfWqx4vpF3-91">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="tJB3gldnxjRfWqx4vpF3-88" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="tJB3gldnxjRfWqx4vpF3-89" target="tJB3gldnxjRfWqx4vpF3-95">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="tJB3gldnxjRfWqx4vpF3-89" value="获取当前时间now，去年或前年当前时间lastyear" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="1160" y="390" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="tJB3gldnxjRfWqx4vpF3-90" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="tJB3gldnxjRfWqx4vpF3-91" target="tJB3gldnxjRfWqx4vpF3-95">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1050" y="690" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1050" y="580" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tJB3gldnxjRfWqx4vpF3-91" value="now" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;" vertex="1" parent="1">
+          <mxGeometry x="1000" y="380" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="tJB3gldnxjRfWqx4vpF3-92" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="tJB3gldnxjRfWqx4vpF3-93" target="tJB3gldnxjRfWqx4vpF3-95">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1390" y="670" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1390" y="580" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tJB3gldnxjRfWqx4vpF3-93" value="lastyear" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;" vertex="1" parent="1">
+          <mxGeometry x="1340" y="380" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="tJB3gldnxjRfWqx4vpF3-94" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="tJB3gldnxjRfWqx4vpF3-95" target="tJB3gldnxjRfWqx4vpF3-97">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="tJB3gldnxjRfWqx4vpF3-95" value="设置评估日为now,评估开始时间为lastyear" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="1160" y="530" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="tJB3gldnxjRfWqx4vpF3-96" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="tJB3gldnxjRfWqx4vpF3-97" target="tJB3gldnxjRfWqx4vpF3-99">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="tJB3gldnxjRfWqx4vpF3-97" value="执行再保前，再保后计算" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="1160" y="660" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="tJB3gldnxjRfWqx4vpF3-98" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="tJB3gldnxjRfWqx4vpF3-99" target="tJB3gldnxjRfWqx4vpF3-101">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="tJB3gldnxjRfWqx4vpF3-99" value="获取去年或前年评估月份的所有理赔融合表数据，并根据险类分组" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="1160" y="790" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="tJB3gldnxjRfWqx4vpF3-100" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="tJB3gldnxjRfWqx4vpF3-101" target="tJB3gldnxjRfWqx4vpF3-107">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1070" y="1190" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1070" y="1150" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tJB3gldnxjRfWqx4vpF3-101" value="险类1" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;" vertex="1" parent="1">
+          <mxGeometry x="1020" y="960" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="tJB3gldnxjRfWqx4vpF3-102" value="险类2" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;" vertex="1" parent="1">
+          <mxGeometry x="1150" y="960" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="tJB3gldnxjRfWqx4vpF3-103" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="tJB3gldnxjRfWqx4vpF3-104" target="tJB3gldnxjRfWqx4vpF3-107">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1330" y="1230" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1330" y="1150" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tJB3gldnxjRfWqx4vpF3-104" value="险类3" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;" vertex="1" parent="1">
+          <mxGeometry x="1280" y="960" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="tJB3gldnxjRfWqx4vpF3-105" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.6;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="tJB3gldnxjRfWqx4vpF3-99" target="tJB3gldnxjRfWqx4vpF3-102">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="tJB3gldnxjRfWqx4vpF3-106" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.59;entryY=-0.017;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="tJB3gldnxjRfWqx4vpF3-99" target="tJB3gldnxjRfWqx4vpF3-104">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="tJB3gldnxjRfWqx4vpF3-130" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="tJB3gldnxjRfWqx4vpF3-107" target="tJB3gldnxjRfWqx4vpF3-109">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="tJB3gldnxjRfWqx4vpF3-107" value="进入计算逻辑" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="1160" y="1100" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="tJB3gldnxjRfWqx4vpF3-108" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.4;entryY=0.02;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="tJB3gldnxjRfWqx4vpF3-102" target="tJB3gldnxjRfWqx4vpF3-107">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="tJB3gldnxjRfWqx4vpF3-111" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="tJB3gldnxjRfWqx4vpF3-109" target="tJB3gldnxjRfWqx4vpF3-110">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="tJB3gldnxjRfWqx4vpF3-131" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="tJB3gldnxjRfWqx4vpF3-109" target="tJB3gldnxjRfWqx4vpF3-112">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="tJB3gldnxjRfWqx4vpF3-109" value="获取回溯分析参数backParameters" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="1158" y="1250" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="tJB3gldnxjRfWqx4vpF3-110" value="backParameters" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;" vertex="1" parent="1">
+          <mxGeometry x="1370" y="1270" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="tJB3gldnxjRfWqx4vpF3-116" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1" source="tJB3gldnxjRfWqx4vpF3-112" target="tJB3gldnxjRfWqx4vpF3-114">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="tJB3gldnxjRfWqx4vpF3-132" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="tJB3gldnxjRfWqx4vpF3-112" target="tJB3gldnxjRfWqx4vpF3-117">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="tJB3gldnxjRfWqx4vpF3-112" value="根据backParameters计算" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="1158" y="1410" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="tJB3gldnxjRfWqx4vpF3-113" value="贴现率" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;" vertex="1" parent="1">
+          <mxGeometry x="1370" y="1390" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="tJB3gldnxjRfWqx4vpF3-114" value="久期" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;" vertex="1" parent="1">
+          <mxGeometry x="1370" y="1470" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="tJB3gldnxjRfWqx4vpF3-115" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.05;entryY=0.55;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="tJB3gldnxjRfWqx4vpF3-112" target="tJB3gldnxjRfWqx4vpF3-113">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="tJB3gldnxjRfWqx4vpF3-120" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="tJB3gldnxjRfWqx4vpF3-117" target="tJB3gldnxjRfWqx4vpF3-118">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="tJB3gldnxjRfWqx4vpF3-133" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="tJB3gldnxjRfWqx4vpF3-117" target="tJB3gldnxjRfWqx4vpF3-119">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="tJB3gldnxjRfWqx4vpF3-117" value="计算至回溯日已决赔款对应的赔付支出" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="1158" y="1550" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="tJB3gldnxjRfWqx4vpF3-118" value="已决赔款+已决费用" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;" vertex="1" parent="1">
+          <mxGeometry x="1320" y="1570" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="tJB3gldnxjRfWqx4vpF3-122" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="tJB3gldnxjRfWqx4vpF3-119" target="tJB3gldnxjRfWqx4vpF3-121">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="tJB3gldnxjRfWqx4vpF3-135" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="tJB3gldnxjRfWqx4vpF3-119" target="tJB3gldnxjRfWqx4vpF3-123">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="tJB3gldnxjRfWqx4vpF3-119" value="计算不考虑贴现因素与风险边际评估值" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="1158" y="1704" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="tJB3gldnxjRfWqx4vpF3-121" value="&lt;div&gt;未决赔款+未决费用+IBNR直接理赔&lt;/div&gt;&lt;div&gt;费用+IBNR间接理赔费用&lt;/div&gt;" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;" vertex="1" parent="1">
+          <mxGeometry x="1310" y="1716" width="190" height="76" as="geometry" />
+        </mxCell>
+        <mxCell id="tJB3gldnxjRfWqx4vpF3-136" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="tJB3gldnxjRfWqx4vpF3-123" target="tJB3gldnxjRfWqx4vpF3-125">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="tJB3gldnxjRfWqx4vpF3-140" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="tJB3gldnxjRfWqx4vpF3-123" target="tJB3gldnxjRfWqx4vpF3-124">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="tJB3gldnxjRfWqx4vpF3-123" value="计算考虑贴现因素与风险边际评估值" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="1158" y="1850" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="tJB3gldnxjRfWqx4vpF3-124" value="&lt;div&gt;(不考虑贴现因素与风险边际评估值*（1+&lt;/div&gt;&lt;div&gt;贴现率）)的久期次幂累加&lt;/div&gt;" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;" vertex="1" parent="1">
+          <mxGeometry x="1310" y="1862" width="190" height="76" as="geometry" />
+        </mxCell>
+        <mxCell id="tJB3gldnxjRfWqx4vpF3-137" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="tJB3gldnxjRfWqx4vpF3-125" target="tJB3gldnxjRfWqx4vpF3-127">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="tJB3gldnxjRfWqx4vpF3-139" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="tJB3gldnxjRfWqx4vpF3-125" target="tJB3gldnxjRfWqx4vpF3-126">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="tJB3gldnxjRfWqx4vpF3-125" value="计算风险边际系数" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="1158" y="2000" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="tJB3gldnxjRfWqx4vpF3-126" value="&lt;div&gt;风险边际（分再保前和再保后）分组求平均数/考虑贴现因素&lt;/div&gt;&lt;div&gt;与风险边际的评估值&lt;/div&gt;" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;" vertex="1" parent="1">
+          <mxGeometry x="1295" y="2012" width="190" height="76" as="geometry" />
+        </mxCell>
+        <mxCell id="tJB3gldnxjRfWqx4vpF3-138" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="tJB3gldnxjRfWqx4vpF3-127" target="tJB3gldnxjRfWqx4vpF3-129">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="tJB3gldnxjRfWqx4vpF3-127" value="计算未决赔款准备金评估值" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="1158" y="2140" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="tJB3gldnxjRfWqx4vpF3-129" value="会计未决分组求和" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;" vertex="1" parent="1">
+          <mxGeometry x="1320" y="2160" width="100" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
