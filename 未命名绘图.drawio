@@ -1,149 +1,178 @@
-<mxfile host="app.diagrams.net" modified="2023-09-23T09:57:23.961Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="jdpFXOnE-qlFBGf7nuzO" version="21.8.1" type="github">
+<mxfile host="app.diagrams.net" modified="2023-09-26T07:24:39.341Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="kaNcO0PG04qBuiKyY6x-" version="21.8.1" type="github">
   <diagram name="第 1 页" id="2nmkqMmpdVOXknUFFFJr">
-    <mxGraphModel dx="954" dy="495" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1781" dy="495" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="ub2z6pUdlAEDYnLQV5LL-1" value="开始" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="ub2z6pUdlAEDYnLQV5LL-1" value="开始" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="350" y="20" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="ub2z6pUdlAEDYnLQV5LL-2" value="结束" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="350" y="1510" width="120" height="80" as="geometry" />
+        <mxCell id="ub2z6pUdlAEDYnLQV5LL-2" value="结束" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="350" y="1570" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="ub2z6pUdlAEDYnLQV5LL-22" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ub2z6pUdlAEDYnLQV5LL-3" target="ub2z6pUdlAEDYnLQV5LL-4">
+        <mxCell id="ub2z6pUdlAEDYnLQV5LL-22" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="ub2z6pUdlAEDYnLQV5LL-3" target="ub2z6pUdlAEDYnLQV5LL-4" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="ub2z6pUdlAEDYnLQV5LL-3" value="获取当前时间的评估月份所有的理赔融合表数据" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="ub2z6pUdlAEDYnLQV5LL-3" value="获取当前时间的评估月份所有的理赔融合表数据" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="220" y="160" width="100" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="ub2z6pUdlAEDYnLQV5LL-23" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ub2z6pUdlAEDYnLQV5LL-4" target="ub2z6pUdlAEDYnLQV5LL-9">
+        <mxCell id="ub2z6pUdlAEDYnLQV5LL-23" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="ub2z6pUdlAEDYnLQV5LL-4" target="ub2z6pUdlAEDYnLQV5LL-9" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="ub2z6pUdlAEDYnLQV5LL-24" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ub2z6pUdlAEDYnLQV5LL-4" target="ub2z6pUdlAEDYnLQV5LL-8">
+        <mxCell id="ub2z6pUdlAEDYnLQV5LL-24" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="ub2z6pUdlAEDYnLQV5LL-4" target="ub2z6pUdlAEDYnLQV5LL-8" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="ub2z6pUdlAEDYnLQV5LL-4" value="计算已发生未报告赔款准备金" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="ub2z6pUdlAEDYnLQV5LL-4" value="计算已发生未报告赔款准备金" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="220" y="310" width="100" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="ub2z6pUdlAEDYnLQV5LL-8" value="再保后ibnr分摊金额求和" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.document2;whiteSpace=wrap;size=0.25;" vertex="1" parent="1">
+        <mxCell id="ub2z6pUdlAEDYnLQV5LL-8" value="再保后ibnr分摊金额求和" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.document2;whiteSpace=wrap;size=0.25;" parent="1" vertex="1">
           <mxGeometry x="60" y="330" width="100" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="ub2z6pUdlAEDYnLQV5LL-25" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ub2z6pUdlAEDYnLQV5LL-9" target="ub2z6pUdlAEDYnLQV5LL-10">
+        <mxCell id="ub2z6pUdlAEDYnLQV5LL-25" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="ub2z6pUdlAEDYnLQV5LL-9" target="ub2z6pUdlAEDYnLQV5LL-10" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="ub2z6pUdlAEDYnLQV5LL-26" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ub2z6pUdlAEDYnLQV5LL-9" target="ub2z6pUdlAEDYnLQV5LL-11">
+        <mxCell id="ub2z6pUdlAEDYnLQV5LL-26" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="ub2z6pUdlAEDYnLQV5LL-9" target="ub2z6pUdlAEDYnLQV5LL-11" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="ub2z6pUdlAEDYnLQV5LL-9" value="计算已发生未报告边际" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="ub2z6pUdlAEDYnLQV5LL-9" value="计算已发生未报告边际" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="220" y="465" width="100" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="ub2z6pUdlAEDYnLQV5LL-10" value="再保后风险边际求和" style="shape=tape;whiteSpace=wrap;html=1;strokeWidth=2;size=0.19" vertex="1" parent="1">
+        <mxCell id="ub2z6pUdlAEDYnLQV5LL-10" value="再保后风险边际求和" style="shape=tape;whiteSpace=wrap;html=1;strokeWidth=2;size=0.19" parent="1" vertex="1">
           <mxGeometry x="60" y="482.5" width="100" height="65" as="geometry" />
         </mxCell>
-        <mxCell id="ub2z6pUdlAEDYnLQV5LL-27" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ub2z6pUdlAEDYnLQV5LL-11" target="ub2z6pUdlAEDYnLQV5LL-12">
+        <mxCell id="ub2z6pUdlAEDYnLQV5LL-27" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="ub2z6pUdlAEDYnLQV5LL-11" target="ub2z6pUdlAEDYnLQV5LL-12" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="ub2z6pUdlAEDYnLQV5LL-11" value="计算未决赔款准备金评估险类维度分析" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="ub2z6pUdlAEDYnLQV5LL-11" value="计算未决赔款准备金评估险类维度分析" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="220" y="610" width="100" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="ub2z6pUdlAEDYnLQV5LL-12" value="根据险类分组求和“再保后会计未决”" style="shape=tape;whiteSpace=wrap;html=1;strokeWidth=2;size=0.19" vertex="1" parent="1">
+        <mxCell id="ub2z6pUdlAEDYnLQV5LL-12" value="根据险类分组求和“再保后会计未决”" style="shape=tape;whiteSpace=wrap;html=1;strokeWidth=2;size=0.19" parent="1" vertex="1">
           <mxGeometry x="60" y="627.5" width="100" height="65" as="geometry" />
         </mxCell>
-        <mxCell id="ub2z6pUdlAEDYnLQV5LL-29" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ub2z6pUdlAEDYnLQV5LL-13" target="ub2z6pUdlAEDYnLQV5LL-16">
+        <mxCell id="ub2z6pUdlAEDYnLQV5LL-29" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="ub2z6pUdlAEDYnLQV5LL-13" target="ub2z6pUdlAEDYnLQV5LL-16" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="ub2z6pUdlAEDYnLQV5LL-13" value="获取当前评估月份的所有理赔融合表数据" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="ub2z6pUdlAEDYnLQV5LL-13" value="获取当前评估月份的所有理赔融合表数据" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="500" y="160" width="100" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="ub2z6pUdlAEDYnLQV5LL-14" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;direction=south;" vertex="1" parent="1">
+        <mxCell id="ub2z6pUdlAEDYnLQV5LL-14" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;direction=south;" parent="1" vertex="1">
           <mxGeometry x="270" y="100" width="280" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="ub2z6pUdlAEDYnLQV5LL-30" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ub2z6pUdlAEDYnLQV5LL-16" target="ub2z6pUdlAEDYnLQV5LL-19">
+        <mxCell id="ub2z6pUdlAEDYnLQV5LL-30" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="ub2z6pUdlAEDYnLQV5LL-16" target="ub2z6pUdlAEDYnLQV5LL-19" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="ub2z6pUdlAEDYnLQV5LL-16" value="判断是否存在一个相同评估月份和相同起保日期或核赔日期的图标数据" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" vertex="1" parent="1">
+        <mxCell id="ub2z6pUdlAEDYnLQV5LL-16" value="判断是否存在一个相同评估月份和相同起保日期或核赔日期的图标数据" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" parent="1" vertex="1">
           <mxGeometry x="450" y="310" width="200" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="ub2z6pUdlAEDYnLQV5LL-17" value="展示数据" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="ub2z6pUdlAEDYnLQV5LL-17" value="展示数据" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="310" y="110" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="ub2z6pUdlAEDYnLQV5LL-18" value="图片数据" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="ub2z6pUdlAEDYnLQV5LL-18" value="图片数据" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="440" y="110" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="ub2z6pUdlAEDYnLQV5LL-31" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ub2z6pUdlAEDYnLQV5LL-19" target="ub2z6pUdlAEDYnLQV5LL-20">
+        <mxCell id="ub2z6pUdlAEDYnLQV5LL-31" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="ub2z6pUdlAEDYnLQV5LL-19" target="ub2z6pUdlAEDYnLQV5LL-20" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="ub2z6pUdlAEDYnLQV5LL-19" value="对数据按照出险日期分组" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="ub2z6pUdlAEDYnLQV5LL-19" value="对数据按照出险日期分组" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="500" y="465" width="100" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="ub2z6pUdlAEDYnLQV5LL-32" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ub2z6pUdlAEDYnLQV5LL-20" target="ub2z6pUdlAEDYnLQV5LL-21">
+        <mxCell id="ub2z6pUdlAEDYnLQV5LL-32" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="ub2z6pUdlAEDYnLQV5LL-20" target="ub2z6pUdlAEDYnLQV5LL-21" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="ub2z6pUdlAEDYnLQV5LL-35" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ub2z6pUdlAEDYnLQV5LL-20" target="ub2z6pUdlAEDYnLQV5LL-33">
+        <mxCell id="ub2z6pUdlAEDYnLQV5LL-35" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="ub2z6pUdlAEDYnLQV5LL-20" target="ub2z6pUdlAEDYnLQV5LL-33" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="ub2z6pUdlAEDYnLQV5LL-20" value="计算再保前已发生未报告赔款准备金" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="ub2z6pUdlAEDYnLQV5LL-20" value="计算再保前已发生未报告赔款准备金" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="500" y="610" width="100" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="ub2z6pUdlAEDYnLQV5LL-21" value="再保前IBNR分摊金额求和" style="shape=tape;whiteSpace=wrap;html=1;strokeWidth=2;size=0.19" vertex="1" parent="1">
+        <mxCell id="ub2z6pUdlAEDYnLQV5LL-21" value="再保前IBNR分摊金额求和" style="shape=tape;whiteSpace=wrap;html=1;strokeWidth=2;size=0.19" parent="1" vertex="1">
           <mxGeometry x="660" y="627.5" width="100" height="65" as="geometry" />
         </mxCell>
-        <mxCell id="ub2z6pUdlAEDYnLQV5LL-37" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ub2z6pUdlAEDYnLQV5LL-33" target="ub2z6pUdlAEDYnLQV5LL-36">
+        <mxCell id="ub2z6pUdlAEDYnLQV5LL-37" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="ub2z6pUdlAEDYnLQV5LL-33" target="ub2z6pUdlAEDYnLQV5LL-36" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="ub2z6pUdlAEDYnLQV5LL-42" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ub2z6pUdlAEDYnLQV5LL-33" target="ub2z6pUdlAEDYnLQV5LL-38">
+        <mxCell id="ub2z6pUdlAEDYnLQV5LL-42" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="ub2z6pUdlAEDYnLQV5LL-33" target="ub2z6pUdlAEDYnLQV5LL-38" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="ub2z6pUdlAEDYnLQV5LL-33" value="计算再保后已发生未报告赔款准备金" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="ub2z6pUdlAEDYnLQV5LL-33" value="计算再保后已发生未报告赔款准备金" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="500" y="760" width="100" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="ub2z6pUdlAEDYnLQV5LL-36" value="再保后IBNR分摊金额求和" style="shape=tape;whiteSpace=wrap;html=1;strokeWidth=2;size=0.19" vertex="1" parent="1">
+        <mxCell id="ub2z6pUdlAEDYnLQV5LL-36" value="再保后IBNR分摊金额求和" style="shape=tape;whiteSpace=wrap;html=1;strokeWidth=2;size=0.19" parent="1" vertex="1">
           <mxGeometry x="660" y="777.5" width="100" height="65" as="geometry" />
         </mxCell>
-        <mxCell id="ub2z6pUdlAEDYnLQV5LL-40" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ub2z6pUdlAEDYnLQV5LL-38" target="ub2z6pUdlAEDYnLQV5LL-39">
+        <mxCell id="ub2z6pUdlAEDYnLQV5LL-40" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="ub2z6pUdlAEDYnLQV5LL-38" target="ub2z6pUdlAEDYnLQV5LL-39" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="ub2z6pUdlAEDYnLQV5LL-44" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ub2z6pUdlAEDYnLQV5LL-38" target="ub2z6pUdlAEDYnLQV5LL-43">
+        <mxCell id="ub2z6pUdlAEDYnLQV5LL-44" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="ub2z6pUdlAEDYnLQV5LL-38" target="ub2z6pUdlAEDYnLQV5LL-43" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="ub2z6pUdlAEDYnLQV5LL-38" value="计算再保前已发生未报告边际" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="ub2z6pUdlAEDYnLQV5LL-38" value="计算再保前已发生未报告边际" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="500" y="920" width="100" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="ub2z6pUdlAEDYnLQV5LL-39" value="再保前风险边际求和" style="shape=tape;whiteSpace=wrap;html=1;strokeWidth=2;size=0.19" vertex="1" parent="1">
+        <mxCell id="ub2z6pUdlAEDYnLQV5LL-39" value="再保前风险边际求和" style="shape=tape;whiteSpace=wrap;html=1;strokeWidth=2;size=0.19" parent="1" vertex="1">
           <mxGeometry x="660" y="937.5" width="100" height="65" as="geometry" />
         </mxCell>
-        <mxCell id="ub2z6pUdlAEDYnLQV5LL-46" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ub2z6pUdlAEDYnLQV5LL-43" target="ub2z6pUdlAEDYnLQV5LL-45">
+        <mxCell id="ub2z6pUdlAEDYnLQV5LL-46" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="ub2z6pUdlAEDYnLQV5LL-43" target="ub2z6pUdlAEDYnLQV5LL-45" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="ub2z6pUdlAEDYnLQV5LL-49" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ub2z6pUdlAEDYnLQV5LL-43" target="ub2z6pUdlAEDYnLQV5LL-47">
+        <mxCell id="ub2z6pUdlAEDYnLQV5LL-49" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="ub2z6pUdlAEDYnLQV5LL-43" target="ub2z6pUdlAEDYnLQV5LL-47" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="ub2z6pUdlAEDYnLQV5LL-43" value="计算再保后已发生未报告边际" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="ub2z6pUdlAEDYnLQV5LL-43" value="计算再保后已发生未报告边际" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="500" y="1069" width="100" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="ub2z6pUdlAEDYnLQV5LL-45" value="再保前法定未决赔款" style="shape=tape;whiteSpace=wrap;html=1;strokeWidth=2;size=0.19" vertex="1" parent="1">
+        <mxCell id="ub2z6pUdlAEDYnLQV5LL-45" value="再保前法定未决赔款" style="shape=tape;whiteSpace=wrap;html=1;strokeWidth=2;size=0.19" parent="1" vertex="1">
           <mxGeometry x="660" y="1086.5" width="100" height="65" as="geometry" />
         </mxCell>
-        <mxCell id="ub2z6pUdlAEDYnLQV5LL-50" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ub2z6pUdlAEDYnLQV5LL-47" target="ub2z6pUdlAEDYnLQV5LL-48">
+        <mxCell id="ub2z6pUdlAEDYnLQV5LL-50" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="ub2z6pUdlAEDYnLQV5LL-47" target="ub2z6pUdlAEDYnLQV5LL-48" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="ub2z6pUdlAEDYnLQV5LL-52" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ub2z6pUdlAEDYnLQV5LL-47" target="ub2z6pUdlAEDYnLQV5LL-51">
+        <mxCell id="ub2z6pUdlAEDYnLQV5LL-52" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="ub2z6pUdlAEDYnLQV5LL-47" target="ub2z6pUdlAEDYnLQV5LL-51" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="ub2z6pUdlAEDYnLQV5LL-47" value="计算理赔未决赔款准备金总额" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="ub2z6pUdlAEDYnLQV5LL-47" value="计算理赔未决赔款准备金总额" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="500" y="1220" width="100" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="ub2z6pUdlAEDYnLQV5LL-48" value="再保后风险边际求和" style="shape=tape;whiteSpace=wrap;html=1;strokeWidth=2;size=0.19" vertex="1" parent="1">
+        <mxCell id="ub2z6pUdlAEDYnLQV5LL-48" value="再保后风险边际求和" style="shape=tape;whiteSpace=wrap;html=1;strokeWidth=2;size=0.19" parent="1" vertex="1">
           <mxGeometry x="660" y="1237.5" width="100" height="65" as="geometry" />
         </mxCell>
-        <mxCell id="ub2z6pUdlAEDYnLQV5LL-54" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ub2z6pUdlAEDYnLQV5LL-51" target="ub2z6pUdlAEDYnLQV5LL-53">
+        <mxCell id="ub2z6pUdlAEDYnLQV5LL-54" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="ub2z6pUdlAEDYnLQV5LL-51" target="ub2z6pUdlAEDYnLQV5LL-53" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="ub2z6pUdlAEDYnLQV5LL-51" value="计算摊回未决赔款准备金总额" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="D-iAr4KjgoPCT8DCKRn9-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="ub2z6pUdlAEDYnLQV5LL-51" target="ub2z6pUdlAEDYnLQV5LL-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ub2z6pUdlAEDYnLQV5LL-51" value="计算摊回未决赔款准备金总额" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="500" y="1380" width="100" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="ub2z6pUdlAEDYnLQV5LL-53" value="再保后法定未决赔款求和" style="shape=tape;whiteSpace=wrap;html=1;strokeWidth=2;size=0.19" vertex="1" parent="1">
+        <mxCell id="ub2z6pUdlAEDYnLQV5LL-53" value="再保后法定未决赔款求和" style="shape=tape;whiteSpace=wrap;html=1;strokeWidth=2;size=0.19" parent="1" vertex="1">
           <mxGeometry x="660" y="1397.5" width="100" height="65" as="geometry" />
+        </mxCell>
+        <mxCell id="D-iAr4KjgoPCT8DCKRn9-2" value="&lt;b&gt;&lt;i&gt;&lt;font style=&quot;font-size: 23px;&quot;&gt;实现流程&lt;/font&gt;&lt;/i&gt;&lt;/b&gt;&lt;br&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; 展示数据逻辑：&lt;/span&gt;&lt;/div&gt;获取当前评估月份的所有理赔融合表数据。&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;已发生未报告赔款准备金 =&amp;nbsp; （融合表）再保后ibnr分摊金额求和&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; 已发生未报告边际 = （融合表）再保后风险边际求和&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;未决赔款准备金评估险类维度分析 = （融合表）根据险类分组求和“再保后会计未决”&lt;br&gt;&amp;nbsp; 最终入库数据HomePageData&lt;br&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; 折线图数据逻辑：&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; 获取当前评估月份的所有理赔融合表数据，并根据出险日期分组&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;为保证同一个评估月份和出险日期的数据是一条，&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;首先查询当前评估月份和出险日期的数据是否数据库已有，然后重新计算，否次创建新的实体类&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; 再保前已发生未报告赔款准备金 =&amp;nbsp; 再保前IBNR分摊金额求和&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;再保后已发生未报告赔款准备金 = 再保后IBNR分摊金额求和&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp;再保前已发生未报告边际 = 再保前风险边际求和&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp;再保后已发生未报告边际 = 再保后风险边际求和&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; 理赔未决赔款准备金总额 = 再保前法定未决赔款求和&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;摊回未决赔款准备金总额 = 再保后法定未决赔款求和&lt;/div&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-40" y="1650" width="910" height="330" as="geometry" />
+        </mxCell>
+        <mxCell id="D-iAr4KjgoPCT8DCKRn9-4" value="险类1" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;" vertex="1" parent="1">
+          <mxGeometry x="90" y="760" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="D-iAr4KjgoPCT8DCKRn9-5" value="险类2" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;" vertex="1" parent="1">
+          <mxGeometry x="220" y="760" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="D-iAr4KjgoPCT8DCKRn9-6" value="险类3" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;" vertex="1" parent="1">
+          <mxGeometry x="340" y="760" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="D-iAr4KjgoPCT8DCKRn9-11" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;direction=south;" vertex="1" parent="1">
+          <mxGeometry x="145" y="710" width="250" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="D-iAr4KjgoPCT8DCKRn9-21" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;direction=north;" vertex="1" parent="1">
+          <mxGeometry x="145" y="820" width="255" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="D-iAr4KjgoPCT8DCKRn9-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="D-iAr4KjgoPCT8DCKRn9-22">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="410" y="1572" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="D-iAr4KjgoPCT8DCKRn9-22" value="入库展示数据表HomePageData" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="222.5" y="870" width="100" height="100" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
