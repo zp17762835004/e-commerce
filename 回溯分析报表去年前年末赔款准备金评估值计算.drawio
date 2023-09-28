@@ -1,36 +1,36 @@
-<mxfile host="app.diagrams.net" modified="2023-09-28T01:49:06.288Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="xPH9h_tThg6i7pBGPQFY" version="21.8.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-09-28T01:53:26.240Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="8ZKWSOkOZTj5fBUYjDoN" version="21.8.2" type="github">
   <diagram name="第 1 页" id="bhqKMjDu3R1R9zMbwyO1">
     <mxGraphModel dx="954" dy="495" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="bu9mYmVd0WAKb9RgSoO7-1" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="bu9mYmVd0WAKb9RgSoO7-3" target="bu9mYmVd0WAKb9RgSoO7-8">
+        <mxCell id="bu9mYmVd0WAKb9RgSoO7-1" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="bu9mYmVd0WAKb9RgSoO7-3" target="bu9mYmVd0WAKb9RgSoO7-8" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="bu9mYmVd0WAKb9RgSoO7-2" value="数据准备" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="bu9mYmVd0WAKb9RgSoO7-1">
+        <mxCell id="bu9mYmVd0WAKb9RgSoO7-2" value="数据准备" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="bu9mYmVd0WAKb9RgSoO7-1" vertex="1" connectable="0">
           <mxGeometry x="-0.1667" y="4" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="bu9mYmVd0WAKb9RgSoO7-3" value="开始" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+        <mxCell id="bu9mYmVd0WAKb9RgSoO7-3" value="开始" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
           <mxGeometry x="350" y="250" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="bu9mYmVd0WAKb9RgSoO7-4" value="结束" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+        <mxCell id="bu9mYmVd0WAKb9RgSoO7-4" value="结束" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
           <mxGeometry x="350" y="1860" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="bu9mYmVd0WAKb9RgSoO7-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="bu9mYmVd0WAKb9RgSoO7-8" target="bu9mYmVd0WAKb9RgSoO7-12">
+        <mxCell id="bu9mYmVd0WAKb9RgSoO7-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="bu9mYmVd0WAKb9RgSoO7-8" target="bu9mYmVd0WAKb9RgSoO7-12" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="bu9mYmVd0WAKb9RgSoO7-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="bu9mYmVd0WAKb9RgSoO7-8" target="bu9mYmVd0WAKb9RgSoO7-10">
+        <mxCell id="bu9mYmVd0WAKb9RgSoO7-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="bu9mYmVd0WAKb9RgSoO7-8" target="bu9mYmVd0WAKb9RgSoO7-10" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="bu9mYmVd0WAKb9RgSoO7-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="bu9mYmVd0WAKb9RgSoO7-8" target="bu9mYmVd0WAKb9RgSoO7-14">
+        <mxCell id="bu9mYmVd0WAKb9RgSoO7-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="bu9mYmVd0WAKb9RgSoO7-8" target="bu9mYmVd0WAKb9RgSoO7-14" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="bu9mYmVd0WAKb9RgSoO7-8" value="获取当前时间now，去年或前年当前时间lastyear" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="bu9mYmVd0WAKb9RgSoO7-8" value="获取当前时间now，去年或前年当前时间lastyear" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="340" y="390" width="100" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="bu9mYmVd0WAKb9RgSoO7-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="bu9mYmVd0WAKb9RgSoO7-10" target="bu9mYmVd0WAKb9RgSoO7-14">
+        <mxCell id="bu9mYmVd0WAKb9RgSoO7-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="bu9mYmVd0WAKb9RgSoO7-10" target="bu9mYmVd0WAKb9RgSoO7-14" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="230" y="690" as="targetPoint" />
             <Array as="points">
@@ -38,10 +38,10 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="bu9mYmVd0WAKb9RgSoO7-10" value="now" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;" vertex="1" parent="1">
+        <mxCell id="bu9mYmVd0WAKb9RgSoO7-10" value="now" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;" parent="1" vertex="1">
           <mxGeometry x="180" y="380" width="100" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="bu9mYmVd0WAKb9RgSoO7-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="bu9mYmVd0WAKb9RgSoO7-12" target="bu9mYmVd0WAKb9RgSoO7-14">
+        <mxCell id="bu9mYmVd0WAKb9RgSoO7-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="bu9mYmVd0WAKb9RgSoO7-12" target="bu9mYmVd0WAKb9RgSoO7-14" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="570" y="670" as="targetPoint" />
             <Array as="points">
@@ -49,28 +49,28 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="bu9mYmVd0WAKb9RgSoO7-12" value="lastyear" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;" vertex="1" parent="1">
+        <mxCell id="bu9mYmVd0WAKb9RgSoO7-12" value="lastyear" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;" parent="1" vertex="1">
           <mxGeometry x="520" y="380" width="100" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="bu9mYmVd0WAKb9RgSoO7-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="bu9mYmVd0WAKb9RgSoO7-14" target="bu9mYmVd0WAKb9RgSoO7-16">
+        <mxCell id="bu9mYmVd0WAKb9RgSoO7-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="bu9mYmVd0WAKb9RgSoO7-14" target="bu9mYmVd0WAKb9RgSoO7-16" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="bu9mYmVd0WAKb9RgSoO7-14" value="设置评估日为now,评估开始时间为lastyear" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="bu9mYmVd0WAKb9RgSoO7-14" value="设置评估日为now,评估开始时间为lastyear" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="340" y="530" width="100" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="bu9mYmVd0WAKb9RgSoO7-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="bu9mYmVd0WAKb9RgSoO7-16" target="bu9mYmVd0WAKb9RgSoO7-18">
+        <mxCell id="bu9mYmVd0WAKb9RgSoO7-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="bu9mYmVd0WAKb9RgSoO7-16" target="bu9mYmVd0WAKb9RgSoO7-18" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="bu9mYmVd0WAKb9RgSoO7-16" value="执行再保前，再保后计算" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="bu9mYmVd0WAKb9RgSoO7-16" value="执行再保前，再保后计算" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="340" y="660" width="100" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="bu9mYmVd0WAKb9RgSoO7-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="bu9mYmVd0WAKb9RgSoO7-18" target="bu9mYmVd0WAKb9RgSoO7-20">
+        <mxCell id="bu9mYmVd0WAKb9RgSoO7-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="bu9mYmVd0WAKb9RgSoO7-18" target="bu9mYmVd0WAKb9RgSoO7-20" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="bu9mYmVd0WAKb9RgSoO7-18" value="获取去年或前年评估月份的所有理赔融合表数据，并根据险类分组" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="bu9mYmVd0WAKb9RgSoO7-18" value="获取去年或前年评估月份的所有理赔融合表数据，并根据险类分组" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="340" y="790" width="100" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="bu9mYmVd0WAKb9RgSoO7-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="bu9mYmVd0WAKb9RgSoO7-20" target="bu9mYmVd0WAKb9RgSoO7-27">
+        <mxCell id="bu9mYmVd0WAKb9RgSoO7-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="bu9mYmVd0WAKb9RgSoO7-20" target="bu9mYmVd0WAKb9RgSoO7-27" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="250" y="1190" as="targetPoint" />
             <Array as="points">
@@ -78,13 +78,13 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="bu9mYmVd0WAKb9RgSoO7-20" value="险类1" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;" vertex="1" parent="1">
+        <mxCell id="bu9mYmVd0WAKb9RgSoO7-20" value="险类1" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;" parent="1" vertex="1">
           <mxGeometry x="200" y="960" width="100" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="bu9mYmVd0WAKb9RgSoO7-21" value="险类2" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;" vertex="1" parent="1">
+        <mxCell id="bu9mYmVd0WAKb9RgSoO7-21" value="险类2" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;" parent="1" vertex="1">
           <mxGeometry x="330" y="960" width="100" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="bu9mYmVd0WAKb9RgSoO7-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="bu9mYmVd0WAKb9RgSoO7-23" target="bu9mYmVd0WAKb9RgSoO7-27">
+        <mxCell id="bu9mYmVd0WAKb9RgSoO7-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="bu9mYmVd0WAKb9RgSoO7-23" target="bu9mYmVd0WAKb9RgSoO7-27" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="510" y="1230" as="targetPoint" />
             <Array as="points">
@@ -92,92 +92,98 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="bu9mYmVd0WAKb9RgSoO7-23" value="险类3" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;" vertex="1" parent="1">
+        <mxCell id="bu9mYmVd0WAKb9RgSoO7-23" value="险类3" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;" parent="1" vertex="1">
           <mxGeometry x="460" y="960" width="100" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="bu9mYmVd0WAKb9RgSoO7-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.6;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="bu9mYmVd0WAKb9RgSoO7-18" target="bu9mYmVd0WAKb9RgSoO7-21">
+        <mxCell id="bu9mYmVd0WAKb9RgSoO7-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.6;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="bu9mYmVd0WAKb9RgSoO7-18" target="bu9mYmVd0WAKb9RgSoO7-21" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="bu9mYmVd0WAKb9RgSoO7-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.59;entryY=-0.017;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="bu9mYmVd0WAKb9RgSoO7-18" target="bu9mYmVd0WAKb9RgSoO7-23">
+        <mxCell id="bu9mYmVd0WAKb9RgSoO7-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.59;entryY=-0.017;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="bu9mYmVd0WAKb9RgSoO7-18" target="bu9mYmVd0WAKb9RgSoO7-23" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="bu9mYmVd0WAKb9RgSoO7-26" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="bu9mYmVd0WAKb9RgSoO7-27" target="bu9mYmVd0WAKb9RgSoO7-31">
+        <mxCell id="bu9mYmVd0WAKb9RgSoO7-26" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="bu9mYmVd0WAKb9RgSoO7-27" target="bu9mYmVd0WAKb9RgSoO7-31" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="bu9mYmVd0WAKb9RgSoO7-27" value="进入计算逻辑" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="bu9mYmVd0WAKb9RgSoO7-27" value="进入计算逻辑" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="340" y="1100" width="100" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="bu9mYmVd0WAKb9RgSoO7-28" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="bu9mYmVd0WAKb9RgSoO7-31" target="bu9mYmVd0WAKb9RgSoO7-32">
+        <mxCell id="bu9mYmVd0WAKb9RgSoO7-28" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="bu9mYmVd0WAKb9RgSoO7-31" target="bu9mYmVd0WAKb9RgSoO7-32" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="bu9mYmVd0WAKb9RgSoO7-29" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="bu9mYmVd0WAKb9RgSoO7-31" target="bu9mYmVd0WAKb9RgSoO7-42">
+        <mxCell id="bu9mYmVd0WAKb9RgSoO7-29" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="bu9mYmVd0WAKb9RgSoO7-31" target="bu9mYmVd0WAKb9RgSoO7-42" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="bu9mYmVd0WAKb9RgSoO7-30" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="bu9mYmVd0WAKb9RgSoO7-31" target="bu9mYmVd0WAKb9RgSoO7-35">
+        <mxCell id="bu9mYmVd0WAKb9RgSoO7-30" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="bu9mYmVd0WAKb9RgSoO7-31" target="bu9mYmVd0WAKb9RgSoO7-35" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="bu9mYmVd0WAKb9RgSoO7-31" value="计算不考虑贴现因素与风险边际评估值" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="bu9mYmVd0WAKb9RgSoO7-31" value="计算不考虑贴现因素与风险边际评估值" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="340" y="1240" width="100" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="bu9mYmVd0WAKb9RgSoO7-32" value="法定未决赔款(分再保前和再保后)" style="shape=tape;whiteSpace=wrap;html=1;strokeWidth=2;size=0.19" vertex="1" parent="1">
+        <mxCell id="bu9mYmVd0WAKb9RgSoO7-32" value="法定未决赔款(分再保前和再保后)" style="shape=tape;whiteSpace=wrap;html=1;strokeWidth=2;size=0.19" parent="1" vertex="1">
           <mxGeometry x="180" y="1257.5" width="100" height="65" as="geometry" />
         </mxCell>
-        <mxCell id="bu9mYmVd0WAKb9RgSoO7-33" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="bu9mYmVd0WAKb9RgSoO7-35" target="bu9mYmVd0WAKb9RgSoO7-44">
+        <mxCell id="bu9mYmVd0WAKb9RgSoO7-33" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="bu9mYmVd0WAKb9RgSoO7-35" target="bu9mYmVd0WAKb9RgSoO7-44" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="bu9mYmVd0WAKb9RgSoO7-34" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="bu9mYmVd0WAKb9RgSoO7-35" target="bu9mYmVd0WAKb9RgSoO7-39">
+        <mxCell id="bu9mYmVd0WAKb9RgSoO7-34" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="bu9mYmVd0WAKb9RgSoO7-35" target="bu9mYmVd0WAKb9RgSoO7-39" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="bu9mYmVd0WAKb9RgSoO7-35" value="根据分组后险类代码获取回溯分析参数" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="bu9mYmVd0WAKb9RgSoO7-35" value="根据分组后险类代码获取回溯分析参数" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="340" y="1370" width="100" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="bu9mYmVd0WAKb9RgSoO7-36" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="bu9mYmVd0WAKb9RgSoO7-39" target="bu9mYmVd0WAKb9RgSoO7-45">
+        <mxCell id="bu9mYmVd0WAKb9RgSoO7-36" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="bu9mYmVd0WAKb9RgSoO7-39" target="bu9mYmVd0WAKb9RgSoO7-45" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="bu9mYmVd0WAKb9RgSoO7-37" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="bu9mYmVd0WAKb9RgSoO7-39" target="bu9mYmVd0WAKb9RgSoO7-40">
+        <mxCell id="bu9mYmVd0WAKb9RgSoO7-37" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="bu9mYmVd0WAKb9RgSoO7-39" target="bu9mYmVd0WAKb9RgSoO7-40" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="bu9mYmVd0WAKb9RgSoO7-38" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="bu9mYmVd0WAKb9RgSoO7-39" target="bu9mYmVd0WAKb9RgSoO7-48">
+        <mxCell id="bu9mYmVd0WAKb9RgSoO7-38" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="bu9mYmVd0WAKb9RgSoO7-39" target="bu9mYmVd0WAKb9RgSoO7-48" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="bu9mYmVd0WAKb9RgSoO7-39" value="计算风险边际系数" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="bu9mYmVd0WAKb9RgSoO7-39" value="计算风险边际系数" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="340" y="1520" width="100" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="bu9mYmVd0WAKb9RgSoO7-40" value="再保前再保后风险边际分组求平均数/a*(1+b.风险边际率)*b.久期" style="shape=tape;whiteSpace=wrap;html=1;strokeWidth=2;size=0.19" vertex="1" parent="1">
+        <mxCell id="bu9mYmVd0WAKb9RgSoO7-40" value="再保前再保后风险边际分组求平均数/a*(1+b.风险边际率)*b.久期" style="shape=tape;whiteSpace=wrap;html=1;strokeWidth=2;size=0.19" parent="1" vertex="1">
           <mxGeometry x="180" y="1537.5" width="100" height="65" as="geometry" />
         </mxCell>
-        <mxCell id="bu9mYmVd0WAKb9RgSoO7-41" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;strokeWidth=2;shape=mxgraph.arrows2.arrow;dy=0.6;dx=40;notch=0;" vertex="1" parent="1">
+        <mxCell id="bu9mYmVd0WAKb9RgSoO7-41" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;strokeWidth=2;shape=mxgraph.arrows2.arrow;dy=0.6;dx=40;notch=0;" parent="1" vertex="1">
           <mxGeometry x="630" y="1280" width="70" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="bu9mYmVd0WAKb9RgSoO7-42" value="不考虑贴现因素与风险边际评估值" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.direct_data;whiteSpace=wrap;" vertex="1" parent="1">
+        <mxCell id="bu9mYmVd0WAKb9RgSoO7-42" value="不考虑贴现因素与风险边际评估值" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.direct_data;whiteSpace=wrap;" parent="1" vertex="1">
           <mxGeometry x="520" y="1260" width="100" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="bu9mYmVd0WAKb9RgSoO7-43" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;strokeWidth=2;shape=mxgraph.arrows2.arrow;dy=0.6;dx=40;notch=0;" vertex="1" parent="1">
+        <mxCell id="bu9mYmVd0WAKb9RgSoO7-43" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;strokeWidth=2;shape=mxgraph.arrows2.arrow;dy=0.6;dx=40;notch=0;" parent="1" vertex="1">
           <mxGeometry x="630" y="1410" width="70" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="bu9mYmVd0WAKb9RgSoO7-44" value="backParameters" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.direct_data;whiteSpace=wrap;" vertex="1" parent="1">
+        <mxCell id="bu9mYmVd0WAKb9RgSoO7-44" value="backParameters" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.direct_data;whiteSpace=wrap;" parent="1" vertex="1">
           <mxGeometry x="520" y="1390" width="100" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="bu9mYmVd0WAKb9RgSoO7-45" value="风险边际系数" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.direct_data;whiteSpace=wrap;" vertex="1" parent="1">
+        <mxCell id="bu9mYmVd0WAKb9RgSoO7-45" value="风险边际系数" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.direct_data;whiteSpace=wrap;" parent="1" vertex="1">
           <mxGeometry x="520" y="1540" width="100" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="bu9mYmVd0WAKb9RgSoO7-46" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="bu9mYmVd0WAKb9RgSoO7-48" target="bu9mYmVd0WAKb9RgSoO7-49">
+        <mxCell id="bu9mYmVd0WAKb9RgSoO7-46" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="bu9mYmVd0WAKb9RgSoO7-48" target="bu9mYmVd0WAKb9RgSoO7-49" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="bu9mYmVd0WAKb9RgSoO7-47" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="bu9mYmVd0WAKb9RgSoO7-48" target="bu9mYmVd0WAKb9RgSoO7-4">
+        <mxCell id="bu9mYmVd0WAKb9RgSoO7-47" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="bu9mYmVd0WAKb9RgSoO7-48" target="bu9mYmVd0WAKb9RgSoO7-4" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="bu9mYmVd0WAKb9RgSoO7-48" value="计算未决赔款准备金评估值" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="bu9mYmVd0WAKb9RgSoO7-48" value="计算未决赔款准备金评估值" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="340" y="1670" width="100" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="bu9mYmVd0WAKb9RgSoO7-49" value="会计未决分组求和" style="shape=tape;whiteSpace=wrap;html=1;strokeWidth=2;size=0.19" vertex="1" parent="1">
+        <mxCell id="bu9mYmVd0WAKb9RgSoO7-49" value="会计未决分组求和" style="shape=tape;whiteSpace=wrap;html=1;strokeWidth=2;size=0.19" parent="1" vertex="1">
           <mxGeometry x="180" y="1687.5" width="100" height="65" as="geometry" />
         </mxCell>
-        <mxCell id="bu9mYmVd0WAKb9RgSoO7-50" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.4;entryY=0.02;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="bu9mYmVd0WAKb9RgSoO7-21" target="bu9mYmVd0WAKb9RgSoO7-27">
+        <mxCell id="bu9mYmVd0WAKb9RgSoO7-50" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.4;entryY=0.02;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="bu9mYmVd0WAKb9RgSoO7-21" target="bu9mYmVd0WAKb9RgSoO7-27" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="bu9mYmVd0WAKb9RgSoO7-51" value="去年，前年末未决赔款准备金评估值计算逻辑" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="bu9mYmVd0WAKb9RgSoO7-51" value="去年，前年末未决赔款准备金评估值计算逻辑" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="312" y="190" width="156" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="TPBrEoONZkqAMOGXTcrY-1" value="a" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;" vertex="1" parent="1">
+          <mxGeometry x="700" y="1262.5" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="TPBrEoONZkqAMOGXTcrY-2" value="b" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;" vertex="1" parent="1">
+          <mxGeometry x="700" y="1390" width="100" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
