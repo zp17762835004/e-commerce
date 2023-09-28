@@ -1,11 +1,20 @@
-<mxfile host="app.diagrams.net" modified="2023-09-28T01:28:41.122Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="V5AcHG7GxYGGXNGv1AAv" version="21.8.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-09-28T01:31:35.650Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="Qh3bZxIyo_NLJe7V1ZoJ" version="21.8.2" type="github">
   <diagram name="第 1 页" id="Rsbi28heWuUzVW4CIRPL">
     <mxGraphModel dx="1781" dy="495" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="sburU5nRO8Bfcz5x_1C_-25" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="sburU5nRO8Bfcz5x_1C_-1" target="sburU5nRO8Bfcz5x_1C_-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="sburU5nRO8Bfcz5x_1C_-1" value="开始" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="360" y="30" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="sburU5nRO8Bfcz5x_1C_-26" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="sburU5nRO8Bfcz5x_1C_-3" target="sburU5nRO8Bfcz5x_1C_-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="sburU5nRO8Bfcz5x_1C_-28" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="sburU5nRO8Bfcz5x_1C_-3" target="sburU5nRO8Bfcz5x_1C_-4">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="sburU5nRO8Bfcz5x_1C_-3" value="获取指定年月的上月时间" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="350" y="160" width="100" height="100" as="geometry" />
@@ -13,11 +22,20 @@
         <mxCell id="sburU5nRO8Bfcz5x_1C_-4" value="lastMonth" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;" vertex="1" parent="1">
           <mxGeometry x="490" y="180" width="100" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="sburU5nRO8Bfcz5x_1C_-27" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="sburU5nRO8Bfcz5x_1C_-5" target="sburU5nRO8Bfcz5x_1C_-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="sburU5nRO8Bfcz5x_1C_-29" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="sburU5nRO8Bfcz5x_1C_-5" target="sburU5nRO8Bfcz5x_1C_-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="sburU5nRO8Bfcz5x_1C_-5" value="获取指定年月的上月查询财务利润表月份为上月，类型为“累积数”，险种为’‘分险种合计’‘的所有数据" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="350" y="320" width="100" height="100" as="geometry" />
         </mxCell>
         <mxCell id="sburU5nRO8Bfcz5x_1C_-6" value="financialStatements" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;" vertex="1" parent="1">
           <mxGeometry x="490" y="340" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="sburU5nRO8Bfcz5x_1C_-30" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="sburU5nRO8Bfcz5x_1C_-7" target="sburU5nRO8Bfcz5x_1C_-9">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="sburU5nRO8Bfcz5x_1C_-7" value="对财务利润表按险种分组计算，每组数据为conditions" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="350" y="470" width="100" height="100" as="geometry" />
@@ -25,8 +43,16 @@
         <mxCell id="sburU5nRO8Bfcz5x_1C_-8" value="创建核对明细表，设置类型为“财务”" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="350" y="610" width="100" height="100" as="geometry" />
         </mxCell>
+        <mxCell id="sburU5nRO8Bfcz5x_1C_-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="sburU5nRO8Bfcz5x_1C_-9" target="sburU5nRO8Bfcz5x_1C_-8">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="540" y="760" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="540" y="660" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="sburU5nRO8Bfcz5x_1C_-9" value="conditions" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;" vertex="1" parent="1">
-          <mxGeometry x="490" y="480" width="100" height="60" as="geometry" />
+          <mxGeometry x="490" y="490" width="100" height="60" as="geometry" />
         </mxCell>
         <mxCell id="sburU5nRO8Bfcz5x_1C_-10" value="设置accid为当前时间评估月份id" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="-374.99" y="810" width="100" height="100" as="geometry" />
@@ -68,7 +94,7 @@
           <mxGeometry x="1075.01" y="810" width="100" height="100" as="geometry" />
         </mxCell>
         <mxCell id="sburU5nRO8Bfcz5x_1C_-23" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;direction=south;" vertex="1" parent="1">
-          <mxGeometry x="-371.87" y="720" width="1543.75" height="50" as="geometry" />
+          <mxGeometry x="-371.8799999999999" y="710" width="1543.75" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
