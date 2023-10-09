@@ -1,49 +1,49 @@
-<mxfile host="app.diagrams.net" modified="2023-09-28T01:43:22.116Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="l-mHb3JvkBDWCiD5YM-8" version="21.8.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-10-09T02:00:39.015Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="2s9Ky_SNxOPqf6ogpiiH" version="21.8.2" type="github">
   <diagram name="第 1 页" id="Rsbi28heWuUzVW4CIRPL">
     <mxGraphModel dx="1781" dy="495" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="sburU5nRO8Bfcz5x_1C_-25" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=none;fontColor=default;" edge="1" parent="1" source="sburU5nRO8Bfcz5x_1C_-1" target="sburU5nRO8Bfcz5x_1C_-3">
+        <mxCell id="sburU5nRO8Bfcz5x_1C_-25" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=none;fontColor=default;" parent="1" source="sburU5nRO8Bfcz5x_1C_-1" target="sburU5nRO8Bfcz5x_1C_-3" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="sburU5nRO8Bfcz5x_1C_-1" value="开始" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;labelBackgroundColor=none;" vertex="1" parent="1">
+        <mxCell id="sburU5nRO8Bfcz5x_1C_-1" value="开始" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;labelBackgroundColor=none;" parent="1" vertex="1">
           <mxGeometry x="360" y="30" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="sburU5nRO8Bfcz5x_1C_-26" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=none;fontColor=default;" edge="1" parent="1" source="sburU5nRO8Bfcz5x_1C_-3" target="sburU5nRO8Bfcz5x_1C_-5">
+        <mxCell id="sburU5nRO8Bfcz5x_1C_-26" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=none;fontColor=default;" parent="1" source="sburU5nRO8Bfcz5x_1C_-3" target="sburU5nRO8Bfcz5x_1C_-5" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="sburU5nRO8Bfcz5x_1C_-28" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=none;fontColor=default;" edge="1" parent="1" source="sburU5nRO8Bfcz5x_1C_-3" target="sburU5nRO8Bfcz5x_1C_-4">
+        <mxCell id="sburU5nRO8Bfcz5x_1C_-28" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=none;fontColor=default;" parent="1" source="sburU5nRO8Bfcz5x_1C_-3" target="sburU5nRO8Bfcz5x_1C_-4" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="sburU5nRO8Bfcz5x_1C_-3" value="获取指定年月的上月时间" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;labelBackgroundColor=none;" vertex="1" parent="1">
+        <mxCell id="sburU5nRO8Bfcz5x_1C_-3" value="获取指定年月的上月时间" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;labelBackgroundColor=none;" parent="1" vertex="1">
           <mxGeometry x="350" y="160" width="100" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="sburU5nRO8Bfcz5x_1C_-4" value="lastMonth" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;labelBackgroundColor=none;" vertex="1" parent="1">
+        <mxCell id="sburU5nRO8Bfcz5x_1C_-4" value="lastMonth" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;labelBackgroundColor=none;" parent="1" vertex="1">
           <mxGeometry x="490" y="180" width="100" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="sburU5nRO8Bfcz5x_1C_-27" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=none;fontColor=default;" edge="1" parent="1" source="sburU5nRO8Bfcz5x_1C_-5" target="sburU5nRO8Bfcz5x_1C_-7">
+        <mxCell id="sburU5nRO8Bfcz5x_1C_-27" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=none;fontColor=default;" parent="1" source="sburU5nRO8Bfcz5x_1C_-5" target="sburU5nRO8Bfcz5x_1C_-7" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="sburU5nRO8Bfcz5x_1C_-29" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=none;fontColor=default;" edge="1" parent="1" source="sburU5nRO8Bfcz5x_1C_-5" target="sburU5nRO8Bfcz5x_1C_-6">
+        <mxCell id="sburU5nRO8Bfcz5x_1C_-29" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=none;fontColor=default;" parent="1" source="sburU5nRO8Bfcz5x_1C_-5" target="sburU5nRO8Bfcz5x_1C_-6" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="sburU5nRO8Bfcz5x_1C_-5" value="获取指定年月的上月查询财务利润表月份为上月，类型为“累积数”，险种为’‘分险种合计’‘的所有数据" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;labelBackgroundColor=none;" vertex="1" parent="1">
+        <mxCell id="sburU5nRO8Bfcz5x_1C_-5" value="获取指定年月的上月查询财务利润表月份为上月，类型为“累积数”，险种不为’‘分险种合计’‘的所有数据" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;labelBackgroundColor=none;" parent="1" vertex="1">
           <mxGeometry x="350" y="320" width="100" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="sburU5nRO8Bfcz5x_1C_-6" value="financialStatements" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;labelBackgroundColor=none;" vertex="1" parent="1">
+        <mxCell id="sburU5nRO8Bfcz5x_1C_-6" value="financialStatements" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;labelBackgroundColor=none;" parent="1" vertex="1">
           <mxGeometry x="490" y="340" width="100" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="sburU5nRO8Bfcz5x_1C_-30" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=none;fontColor=default;" edge="1" parent="1" source="sburU5nRO8Bfcz5x_1C_-7" target="sburU5nRO8Bfcz5x_1C_-9">
+        <mxCell id="sburU5nRO8Bfcz5x_1C_-30" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=none;fontColor=default;" parent="1" source="sburU5nRO8Bfcz5x_1C_-7" target="sburU5nRO8Bfcz5x_1C_-9" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="sburU5nRO8Bfcz5x_1C_-7" value="对财务利润表按险种分组计算，每组数据为conditions" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;labelBackgroundColor=none;" vertex="1" parent="1">
+        <mxCell id="sburU5nRO8Bfcz5x_1C_-7" value="对财务利润表按险种分组计算，每组数据为conditions" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;labelBackgroundColor=none;" parent="1" vertex="1">
           <mxGeometry x="350" y="470" width="100" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="sburU5nRO8Bfcz5x_1C_-8" value="创建核对明细表，设置类型为“财务”" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;labelBackgroundColor=none;" vertex="1" parent="1">
+        <mxCell id="sburU5nRO8Bfcz5x_1C_-8" value="创建核对明细表，设置类型为“财务”" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;labelBackgroundColor=none;" parent="1" vertex="1">
           <mxGeometry x="350" y="610" width="100" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="sburU5nRO8Bfcz5x_1C_-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;labelBackgroundColor=none;fontColor=default;" edge="1" parent="1" source="sburU5nRO8Bfcz5x_1C_-9" target="sburU5nRO8Bfcz5x_1C_-8">
+        <mxCell id="sburU5nRO8Bfcz5x_1C_-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;labelBackgroundColor=none;fontColor=default;" parent="1" source="sburU5nRO8Bfcz5x_1C_-9" target="sburU5nRO8Bfcz5x_1C_-8" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="540" y="760" as="targetPoint" />
             <Array as="points">
@@ -51,52 +51,52 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="sburU5nRO8Bfcz5x_1C_-9" value="conditions" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;labelBackgroundColor=none;" vertex="1" parent="1">
+        <mxCell id="sburU5nRO8Bfcz5x_1C_-9" value="conditions" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;labelBackgroundColor=none;" parent="1" vertex="1">
           <mxGeometry x="490" y="490" width="100" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="sburU5nRO8Bfcz5x_1C_-10" value="设置accid为当前时间评估月份id" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;labelBackgroundColor=none;" vertex="1" parent="1">
+        <mxCell id="sburU5nRO8Bfcz5x_1C_-10" value="设置accid为当前时间评估月份id" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;labelBackgroundColor=none;" parent="1" vertex="1">
           <mxGeometry x="-374.99" y="810" width="100" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="sburU5nRO8Bfcz5x_1C_-11" value="设置accid为当前时间评估月份id，&lt;br&gt;期间为上月年月lastMonth" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;labelBackgroundColor=none;" vertex="1" parent="1">
+        <mxCell id="sburU5nRO8Bfcz5x_1C_-11" value="设置accid为当前时间评估月份id，&lt;br&gt;期间为上月年月lastMonth" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;labelBackgroundColor=none;" parent="1" vertex="1">
           <mxGeometry x="-254.99" y="810" width="100" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="sburU5nRO8Bfcz5x_1C_-12" value="设置险种代码为分组的利润表conditions的险种代码" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;labelBackgroundColor=none;" vertex="1" parent="1">
+        <mxCell id="sburU5nRO8Bfcz5x_1C_-12" value="设置险种代码为分组的利润表conditions的险种代码" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;labelBackgroundColor=none;" parent="1" vertex="1">
           <mxGeometry x="-14.99" y="810" width="100" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="sburU5nRO8Bfcz5x_1C_-13" value="设置险种代码为分组的利润表conditions的险种代码" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;labelBackgroundColor=none;" vertex="1" parent="1">
+        <mxCell id="sburU5nRO8Bfcz5x_1C_-13" value="设置险种代码为分组的利润表conditions的险种代码" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;labelBackgroundColor=none;" parent="1" vertex="1">
           <mxGeometry x="-134.99" y="810" width="100" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="sburU5nRO8Bfcz5x_1C_-14" value="计算保费收入为分组的利润表conditions的保费收入求和" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;labelBackgroundColor=none;" vertex="1" parent="1">
+        <mxCell id="sburU5nRO8Bfcz5x_1C_-14" value="计算保费收入为分组的利润表conditions的保费收入求和" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;labelBackgroundColor=none;" parent="1" vertex="1">
           <mxGeometry x="115.01" y="810" width="100" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="sburU5nRO8Bfcz5x_1C_-15" value="计算分入保费为分组的利润表conditions的分入保费求和" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;labelBackgroundColor=none;" vertex="1" parent="1">
+        <mxCell id="sburU5nRO8Bfcz5x_1C_-15" value="计算分入保费为分组的利润表conditions的分入保费求和" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;labelBackgroundColor=none;" parent="1" vertex="1">
           <mxGeometry x="235.01" y="810" width="100" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="sburU5nRO8Bfcz5x_1C_-16" value="计算分出保费为分组的利润表conditions的分出保费求和" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;labelBackgroundColor=none;" vertex="1" parent="1">
+        <mxCell id="sburU5nRO8Bfcz5x_1C_-16" value="计算分出保费为分组的利润表conditions的分出保费求和" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;labelBackgroundColor=none;" parent="1" vertex="1">
           <mxGeometry x="355.01" y="810" width="100" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="sburU5nRO8Bfcz5x_1C_-17" value="计算直接理赔费用为分组的利润表conditions的直接理赔费用求和" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;labelBackgroundColor=none;" vertex="1" parent="1">
+        <mxCell id="sburU5nRO8Bfcz5x_1C_-17" value="计算直接理赔费用为分组的利润表conditions的直接理赔费用求和" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;labelBackgroundColor=none;" parent="1" vertex="1">
           <mxGeometry x="475.01" y="810" width="100" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="sburU5nRO8Bfcz5x_1C_-18" value="计算赔款支出为分组的利润表conditions的赔款支出求和" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;labelBackgroundColor=none;" vertex="1" parent="1">
+        <mxCell id="sburU5nRO8Bfcz5x_1C_-18" value="计算赔款支出为分组的利润表conditions的赔款支出求和" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;labelBackgroundColor=none;" parent="1" vertex="1">
           <mxGeometry x="595.01" y="810" width="100" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="sburU5nRO8Bfcz5x_1C_-19" value="计算摊回赔付支出为分组的利润表conditions的摊回赔付支出求和" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;labelBackgroundColor=none;" vertex="1" parent="1">
+        <mxCell id="sburU5nRO8Bfcz5x_1C_-19" value="计算摊回赔付支出为分组的利润表conditions的摊回赔付支出求和" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;labelBackgroundColor=none;" parent="1" vertex="1">
           <mxGeometry x="715.01" y="810" width="100" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="sburU5nRO8Bfcz5x_1C_-20" value="计算赔付支出为分组的利润表conditions的赔付支出求和" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;labelBackgroundColor=none;" vertex="1" parent="1">
+        <mxCell id="sburU5nRO8Bfcz5x_1C_-20" value="计算赔付支出为分组的利润表conditions的赔付支出求和" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;labelBackgroundColor=none;" parent="1" vertex="1">
           <mxGeometry x="835.01" y="810" width="100" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="sburU5nRO8Bfcz5x_1C_-21" value="计算间接理赔费用为分组的利润表conditions的间接理赔费用求和" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;labelBackgroundColor=none;" vertex="1" parent="1">
+        <mxCell id="sburU5nRO8Bfcz5x_1C_-21" value="计算间接理赔费用为分组的利润表conditions的间接理赔费用求和" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;labelBackgroundColor=none;" parent="1" vertex="1">
           <mxGeometry x="955.01" y="810" width="100" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="sburU5nRO8Bfcz5x_1C_-22" value="计算分保赔付支出为赔付支出-直接理赔费用-间接理赔费用" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;labelBackgroundColor=none;" vertex="1" parent="1">
+        <mxCell id="sburU5nRO8Bfcz5x_1C_-22" value="计算分保赔付支出为赔付支出-直接理赔费用-间接理赔费用" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;labelBackgroundColor=none;" parent="1" vertex="1">
           <mxGeometry x="1075.01" y="810" width="100" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="sburU5nRO8Bfcz5x_1C_-23" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;direction=south;labelBackgroundColor=none;" vertex="1" parent="1">
+        <mxCell id="sburU5nRO8Bfcz5x_1C_-23" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;direction=south;labelBackgroundColor=none;" parent="1" vertex="1">
           <mxGeometry x="-371.8799999999999" y="710" width="1543.75" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="sburU5nRO8Bfcz5x_1C_-33" value="结束" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;labelBackgroundColor=none;" vertex="1" parent="1">
+        <mxCell id="sburU5nRO8Bfcz5x_1C_-33" value="结束" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;labelBackgroundColor=none;" parent="1" vertex="1">
           <mxGeometry x="365.01" y="1010" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
